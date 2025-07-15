@@ -1,7 +1,5 @@
 class Main:
     pass
-print("Testanod o Projeto")
-
 from Cliente import Cliente
 from Conta import Conta
 
